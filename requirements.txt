@@ -1,0 +1,5 @@
+Flask
+Flask-RESTful
+pymysql
+gunicorn
+flask_jwt_extended
